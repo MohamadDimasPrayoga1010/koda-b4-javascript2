@@ -21,8 +21,7 @@ const profile = {
   ...extraInfo,
 }
 
-const {skills: [_,skill] } = extraInfo
+const {skills: [_,skill] } = profile
 const {education : [{name}]} = profile
-
 console.log(skill)
 console.log(name)
