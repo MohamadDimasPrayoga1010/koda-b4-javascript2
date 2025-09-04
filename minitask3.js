@@ -28,5 +28,5 @@ const obj = {
 };
 
 
-const {str: [_,__,___,[_____,[______,_______,{man:[{the:{name:{of:{us : name}}}}]}]]]} = obj
-console.log(name)
+const {str: [_,__,___,[_____,[______,_______,{man:[{the:{name:{of:{us : nama}}}}]}]]]} = obj
+console.log(nama)
